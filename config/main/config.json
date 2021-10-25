@@ -1,0 +1,10 @@
+{
+    "prefix": "prefix for reconlx handler",
+    "yes": "✅",
+    "no": "❌",
+    "variables": {
+        "verification_channel": "",
+        "verification_role1": "",
+        "verification_role2": ""
+    }
+}
