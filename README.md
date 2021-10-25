@@ -18,4 +18,4 @@ This allows you to channel more verification measures such as 2 step verificatio
 Node.js >=16
 
 ## Preview
-PLACEHOLDER
+[owo](https://streamable.com/vc18v7)
