@@ -17,5 +17,5 @@ This allows you to channel more verification measures such as 2 step verificatio
 ### Server requirements
 Node.js >=16
 
-## Preview
-[owo](https://streamable.com/vc18v7)
+## Previews
+[owo](https://streamable.com/vc18v7) [what's this?](https://streamable.com/t4yyp2)
