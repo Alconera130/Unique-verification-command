@@ -5,5 +5,6 @@ const client = new Client({
 })
 
 client.func = require(process.cwd() + '/config/main/handler.js')
+client.variables = require(process.cwd() + '/config/main/config.json').variables
 
 client.login(process?.env?.token || 'TOKEN')
