@@ -14,7 +14,8 @@ This allows you to channel more verification measures such as 2 step verificatio
 - handler.js
     - `home/runner/config/main/handler.js`
 
-The token part in `config.json` is optional
+### Server requirements
+Node.js >=16
 
 ## Preview
 PLACEHOLDER
