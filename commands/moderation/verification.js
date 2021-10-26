@@ -25,7 +25,7 @@ module.exports = {
                 )
                 .setTitle('Verification options')
                 .addFields(
-                    { name: "Set", value: `Set a verification measure using this command\n> \`verification set <channel | role> <[role ID 1 [|] role ID 2] | channel ID or name>\``, inline: true },
+                    { name: "Set", value: `Set a verification measure using this command\n> \`verification set <channel | role> <[role ID 1 [|] role ID 2] [|] [channel ID or name]>\``, inline: true },
                     { name: "Verify", value: `Verify yourself for the server`, inline: true }
                 )
                 .setColor(chance)
